@@ -14,40 +14,39 @@ export const RESUME_DATA = {
     " A girl who loves to learn and share knowledge.",  
   summary: (
     <>
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum vitae fringilla nulla, 
-      in vehicula ligula. Morbi dignissim tempor justo, sit amet dictum purus feugiat in. 
-      Interdum et malesuada fames ac ante ipsum primis.
+      I am a dedicated Computer Science Engineering student actively honing my skills in Python, Java, HTML, and SQL. With a strong foundation in programming languages and a thirst for knowledge. And I am committed to mastering the latest tools and techniques in the field of software development. Continuously expanding my skill set through self-directed learning and online courses.
     </>
   ),
-  avatarUrl: "https://avatars.githubusercontent.com/u/1017620?v=4",
+  avatarUrl: "c:/Users/HP/Downloads/IMG_0714.jpg",
   personalWebsiteUrl: "https://defang.io/",
   contact: {
-    email: "lorem.ipsum@example.com",
+    email: "mhfiona1309@gmail.com",
     tel: "+1234567890",
     social: [
       {
         name: "GitHub",
-        url: "https://github.com/DefangLabs",
+        url: "https://github.com/Noblesse013",
         icon: GitHubIcon,
       },
       {
         name: "LinkedIn",
-        url: "https://www.linkedin.com/company/defanglabs/",
+        url: "https://www.linkedin.com/in/mehreen-mallick-fiona/",
         icon: LinkedInIcon,
       },
       {
         name: "X",
-        url: "https://twitter.com/DefangLabs",
+        url: "https://x.com/fionabiie03",
         icon: XIcon,
       },
     ],
   },
   education: [
     {
-      school: "Faucibus Orci Luctus",
-      degree: "Bachelor's Degree in Vestibulum Ante",
-      start: "2007",
-      end: "2010",
+      school: "BRAC University",
+      link: "https://www.bracu.ac.bd/",
+      degree: "Bachelor's Degree in Computer Science",
+      start: "2022",
+      end: "2026",
     },
   ],
   work: [
