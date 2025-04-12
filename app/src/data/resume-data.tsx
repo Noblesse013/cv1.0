@@ -17,7 +17,7 @@ export const RESUME_DATA = {
       I am a dedicated Computer Science Engineering student actively honing my skills in Python, Java, HTML, and SQL. With a strong foundation in programming languages and a thirst for knowledge. And I am committed to mastering the latest tools and techniques in the field of software development. Continuously expanding my skill set through self-directed learning and online courses.
     </>
   ),
-  avatarUrl: "c:/Users/HP/Downloads/IMG_0714.jpg",
+  avatarUrl: "https://media.licdn.com/dms/image/v2/D5603AQH5SqhxUTW5TQ/profile-displayphoto-shrink_200_200/B56ZScwyt.GsAY-/0/1737796825253?e=1749686400&v=beta&t=yHErP3fXqG3foC0G-GkQxw3IPoKRnYJHzCCDL_pJ4WI",
   personalWebsiteUrl: "https://defang.io/",
   contact: {
     email: "mhfiona1309@gmail.com",
