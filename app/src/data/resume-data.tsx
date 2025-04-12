@@ -44,112 +44,59 @@ export const RESUME_DATA = {
     {
       school: "BRAC University",
       link: "https://www.bracu.ac.bd/",
-      degree: "Bachelor's Degree in Computer Science",
+      degree: "Bachelor's Degree in Computer Science and Engineering",
       start: "2022",
       end: "2026",
     },
   ],
   work: [
     {
-      company: "Company",
+      company: "HeadStarter",
       link: "about:blank",
       badges: ["Remote", "React", "TypeScript", "Node.js"],
-      title: "Job Position",
+      title: "SWE Fellow",
       logo: Logo,
-      start: "2024",
-      end: null,
+      start: "July - 2024",
+      end: "September - 2024",
       description: (
         <>
-          Sed eget felis lacus. Maecenas placerat diam a tincidunt viverra. 
+          Built and deployed 5 AI projects in 5 weeks using React JS, Next.js, Firebase, Clerk, and Vercel, following agile methodologies with weekly sprints and incorporated CI/CD practices for iterative deployment
           <ul className="list-inside list-disc">
             <li>
-              Praesent hendrerit justo et nisl dapibus, porttitor placerat nisi efficitur.
+            Built 5 AI applications in 5 weeks using React, Next.js, Firebase, and Clerk.
             </li>
             <li>
-              Donec viverra urna in porta dignissim, nunc suscipit aliquet elementum, 
-              etiam vestibulum. 
+            Followed Agile methodologies with weekly sprints for task prioritization and user feedback integration. 
             </li>
             <li>
-              Curabitur venenatis magna lacinia, vulputate nisl ac, fermentum turpis. 
+            Implemented CI/CD via Vercel for automated testing, continuous deployment, and rapid updates 
             </li>
           </ul>
         </>
       ),
     },
-    {
-      company: "Company",
-      link: "about:blank",
-      badges: [
-        "Remote",
-        "React",
-        "TypeScript",
-        "Node.js",
-      ],
-      title: "Job Position",
-      logo: Logo,
-      start: "2021",
-      end: "2024",
-      description: (
-        <>
-          Quisque vitae elementum orci. In hac habitasse platea dictumst.
-          <ul className="list-inside list-disc">
-            <li>
-            Duis ornare ligula nec tincidunt mattis, crabitur lectus neque.
-            </li>
-            <li>
-            Donec porttitor nec magna quis facilisis mauris, rutrum a diam vitae rhoncus 
-            donec luctus.
-            </li>
-            <li>
-            Phasellus nibh felis, scelerisque aliquet cursus a, blandit id sem, 
-            nam aliquet dolor.
-            </li>
-          </ul>
-        </>
-      ),
-    },
-    {
-      company: "Company",
-      link: "about:blank",
-      badges: ["Remote", "React", "TypeScript", "Node.js"],
-      title: "Job Position",
-      logo: Logo,
-      start: "2015",
-      end: "2021",
-      description: (
-        <>
-          Sed aliquet hendrerit odio, in elementum ante convallis quis.
-          <ul className="list-inside list-disc">
-            <li>
-            Donec blandit nibh at felis vehicula vehicula, nunc semper porttitor malesuada.
-            </li>
-            <li>
-            Etiam rutrum dolor vel elit cursus elementum. 
-            </li>
-            <li>
-            Curabitur urna sem, faucibus auctor dignissim a, eleifend at mauris.
-            </li>
-          </ul>
-        </>
-      ),
-    }
+    
   ],
   skills: [
     "React",
     "TypeScript",
     "Tailwind CSS",
     "Node.js",
-    "GraphQL",
-    "Relay",
-    "System Architecture",
+    "Python",
+    "Java",
+    "PostgreSQL", 
+    "SQL",
+    "HTML",
+    "CSS",
+    "Javascript",
     "Remote Team Leadership",
   ],
   projects: [
     {
-      title: "Project 1",
-      techStack: ["TypeScript", "Next.js", "Browser Extension", "PostgreSQL"],
+      title: "Study-Starter",
+      techStack: ["TypeScript", "Tailwind CSS", "Vite", "React"],
       description:
-        "Nam aliquet dolor a risus pharetra placerat, praesent congue nulla dolor.",
+        "Your personal study companion to overcome procrastination and build consistent study habits.",
       logo: Logo,
       link: {
         label: "blank",
@@ -157,15 +104,14 @@ export const RESUME_DATA = {
       },
     },
     {
-      title: "Project 2",
+      title: "Fio’s AI Summarizer App",
       techStack: [
         "TypeScript",
-        "Next.js",
-        "Vite",
-        "GraphQL",
+        "OpenAI",
+        "Tailwind CSS",
       ],
       description:
-        "Pellentesque habitant morbi tristique senectus.",
+        "An AI-powered tool that extracts key insights from lengthy texts and articles.",
       logo: Logo,
       link: {
         label: "blank",
@@ -173,10 +119,10 @@ export const RESUME_DATA = {
       },
     },
     {
-      title: "Project 3",
-      techStack: ["TypeScript", "Next.js", "Tailwind CSS"],
+      title: "Self-Love Generator",
+      techStack: ["TypeScript", "React+Vite", "Tailwind CSS"],
       description:
-        "Curabitur lectus neque, tempor at tortor non, viverra tempor tellus.",
+        "A tool for singles to embrace self-love during Valentine's. Generate personalized affirmations and reminders of your worth!",
       logo: Logo,
       link: {
         label: "blank",
