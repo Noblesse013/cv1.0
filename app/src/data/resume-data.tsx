@@ -60,7 +60,7 @@ export const RESUME_DATA = {
       end: "September - 2024",
       description: (
         <>
-          Built and deployed 5 AI projects in 5 weeks using React JS, Next.js, Firebase, Clerk, and Vercel, following agile methodologies with weekly sprints and incorporated CI/CD practices for iterative deployment
+           
           <ul className="list-inside list-disc">
             <li>
             Built 5 AI applications in 5 weeks using React, Next.js, Firebase, and Clerk.

@@ -18,7 +18,7 @@ export const metadata: Metadata = {
     locale: "en_US",
     images: [
       {
-        url: "https://cv.jarocki.me/opengraph-image",
+        url: "https://media.licdn.com/dms/image/v2/D5603AQH5SqhxUTW5TQ/profile-displayphoto-shrink_200_200/B56ZScwyt.GsAY-/0/1737796825253?e=1749686400&v=beta&t=yHErP3fXqG3foC0G-GkQxw3IPoKRnYJHzCCDL_pJ4WI",
         width: 1200,
         height: 630,
         alt: `${RESUME_DATA.name}'s profile picture`,
@@ -29,7 +29,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: `${RESUME_DATA.name} - Resume`,
     description: RESUME_DATA.about,
-    images: ["https://cv.jarocki.me/opengraph-image"],
+    images: ["https://media.licdn.com/dms/image/v2/D5603AQH5SqhxUTW5TQ/profile-displayphoto-shrink_200_200/B56ZScwyt.GsAY-/0/1737796825253?e=1749686400&v=beta&t=yHErP3fXqG3foC0G-GkQxw3IPoKRnYJHzCCDL_pJ4WI"],
   },
 };
 
